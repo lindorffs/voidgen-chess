@@ -116,7 +116,7 @@ function draw_chess_board(x_draw, y_draw, size)
 			if board_files[x]..tostring(y) == selected_square then
 				render_rectangle(x_draw, y_draw, size, size, 100, 200, 100, 255, false)
 				render_border(x_draw, y_draw, size, size, 0, 0, 0, 255, false)
-			elseif y % 2 == 1 then
+			elseif y % 2 == 0 then
 				if x % 2 == 0 then
 					render_rectangle(x_draw, y_draw, size, size, 200, 200, 200, 255, false)
 				else
