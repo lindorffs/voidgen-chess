@@ -1,5 +1,5 @@
 # VoidGEN Chess
-![image](https://github.com/lindorffs/voidgen-chess/assets/37172070/84187775-d77b-4b8e-826a-6bfc1627a8fc)
+![image](https://github.com/lindorffs/voidgen-chess/assets/37172070/2d0d20bb-d9cb-48f9-8734-2f0809205d5e)
 
 
 Pit Luciole against Luciole in an endless series of chess matches, or play against it yourself.
