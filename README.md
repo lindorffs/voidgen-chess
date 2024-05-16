@@ -5,6 +5,7 @@
 Pit Luciole against Luciole in an endless series of chess matches, or play against it yourself.
 
 Press "f1" to toggle cpu-vs-cpu
+
 Press "m" to perform a cpu move on your behalf
 
 Requires https://github.com/lindorffs/voidgen-2.0
